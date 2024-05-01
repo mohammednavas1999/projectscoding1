@@ -1,0 +1,46 @@
+{
+  "name": "الاستاذ محمد التميمي",
+  "short_name": "projectscoding1",
+  "start_url": "https://www.projectscoding1.com/",
+  "display": "standalone",
+  "background_color": "#72a4f3",
+  "theme_color": "#fdfcfc",
+  "description": "موقع الاستاذ محمد مسلم عبداللة التميمي,اخبار قسم الحاسوب,اخبار الجامعات العراقية,اسئلة وحلول ,كتب وملازم لجميع المراحل,ملخصات وشروحات",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEitFXtlDOgv5cFoqAkqNaVepnbl3DdKeRrON4qi0YzhV4qgj8dyLgKryrsuGmZkVJd4QiGojjnwEp48XlU0dYfsJDpz_HbLd-KXfILtkyDiVZ852iV7X-TzUX8aVBhaAX5e7oOQW4x1gpK4yEXMAqBjPe1JbN-0EhyHyClzCi2uH-ba68MgT-_0WVflOsw=s150.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEitFXtlDOgv5cFoqAkqNaVepnbl3DdKeRrON4qi0YzhV4qgj8dyLgKryrsuGmZkVJd4QiGojjnwEp48XlU0dYfsJDpz_HbLd-KXfILtkyDiVZ852iV7X-TzUX8aVBhaAX5e7oOQW4x1gpK4yEXMAqBjPe1JbN-0EhyHyClzCi2uH-ba68MgT-_0WVflOsw=s150.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEitFXtlDOgv5cFoqAkqNaVepnbl3DdKeRrON4qi0YzhV4qgj8dyLgKryrsuGmZkVJd4QiGojjnwEp48XlU0dYfsJDpz_HbLd-KXfILtkyDiVZ852iV7X-TzUX8aVBhaAX5e7oOQW4x1gpK4yEXMAqBjPe1JbN-0EhyHyClzCi2uH-ba68MgT-_0WVflOsw=s150.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEitFXtlDOgv5cFoqAkqNaVepnbl3DdKeRrON4qi0YzhV4qgj8dyLgKryrsuGmZkVJd4QiGojjnwEp48XlU0dYfsJDpz_HbLd-KXfILtkyDiVZ852iV7X-TzUX8aVBhaAX5e7oOQW4x1gpK4yEXMAqBjPe1JbN-0EhyHyClzCi2uH-ba68MgT-_0WVflOsw=s150.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEitFXtlDOgv5cFoqAkqNaVepnbl3DdKeRrON4qi0YzhV4qgj8dyLgKryrsuGmZkVJd4QiGojjnwEp48XlU0dYfsJDpz_HbLd-KXfILtkyDiVZ852iV7X-TzUX8aVBhaAX5e7oOQW4x1gpK4yEXMAqBjPe1JbN-0EhyHyClzCi2uH-ba68MgT-_0WVflOsw=s150.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEitFXtlDOgv5cFoqAkqNaVepnbl3DdKeRrON4qi0YzhV4qgj8dyLgKryrsuGmZkVJd4QiGojjnwEp48XlU0dYfsJDpz_HbLd-KXfILtkyDiVZ852iV7X-TzUX8aVBhaAX5e7oOQW4x1gpK4yEXMAqBjPe1JbN-0EhyHyClzCi2uH-ba68MgT-_0WVflOsw=s150.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEitFXtlDOgv5cFoqAkqNaVepnbl3DdKeRrON4qi0YzhV4qgj8dyLgKryrsuGmZkVJd4QiGojjnwEp48XlU0dYfsJDpz_HbLd-KXfILtkyDiVZ852iV7X-TzUX8aVBhaAX5e7oOQW4x1gpK4yEXMAqBjPe1JbN-0EhyHyClzCi2uH-ba68MgT-_0WVflOsw=s150.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
